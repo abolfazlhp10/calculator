@@ -1,0 +1,37 @@
+table {
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 500px;
+}
+
+input[type="button"] {
+  width: 100%;
+  padding: 20px 40px;
+  background-color: rgb(43, 206, 138);
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+}
+button[type="submit"] {
+  width: 100%;
+  padding: 20px 40px;
+  background-color: rgb(43, 206, 138);
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+}
+
+input[type="text"] {
+  padding: 20px 30px;
+  font-size: 24px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  border: 2px solid black;
+}
